@@ -1,7 +1,7 @@
 <h1 align="center">Hi there you beauty pumpkins! 👋</h1>
 
 <p align="center">
-  <img src="https://c.tenor.com/15iA-FBQhuAAAAAd/pumpkin-dancing-pumpkin.gif" width="300" align="center">
+  <img src="https://c.tenor.com/15iA-FBQhuAAAAAd/pumpkin-dancing-pumpkin.gif" width="200" align="center"><img src="https://c.tenor.com/15iA-FBQhuAAAAAd/pumpkin-dancing-pumpkin.gif" width="200" align="center"><img src="https://c.tenor.com/15iA-FBQhuAAAAAd/pumpkin-dancing-pumpkin.gif" width="200" align="center">
 </p>
 <p align="center">You are on my github account where I share some code, test tasks by various companies and also my pet projects.</p>
 
